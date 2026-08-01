@@ -1,2 +1,2 @@
 # lead-conversion-analytics
-Sales funnel analytics &amp; lead conversion prediction for ed-tech course sales
+Sales funnel analytics &amp; Lead conversion Prediction for Ed-Tech course sales
