@@ -3,7 +3,7 @@
 An end-to-end analytics project examining lead-to-enrollment conversion for a course-selling organization. The objective is to identify which acquisition channels, response behaviors, and follow-up patterns drive conversions, and to build a predictive scoring model that helps sales teams prioritize outreach.
 
 **Live Dashboard:** [Add your deployed Streamlit link here]
-**Author:** [Your Name] | [LinkedIn] | [Email]
+**Author:** Krishna Kishore | www.linkedin.com/in/krishna-kishore-kkk | kishorekrishna943@gmail.com
 
 ---
 
