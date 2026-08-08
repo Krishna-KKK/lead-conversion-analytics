@@ -131,4 +131,4 @@ This project uses a synthetically generated dataset designed to reflect realisti
 
 ## Contact
 
-For questions about this project or my background in analytics, feel free to connect via [LinkedIn] or [Email].
+For questions about this project or my background in analytics, feel free to connect via www.linkedin.com/in/krishna-kishore-kkk or kishorekrishna943@gmail.com
