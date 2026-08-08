@@ -1,7 +1,3 @@
-Here is a comprehensive README.md file based on the provided notebooks and dataset, structured for a professional GitHub repository.
-
----
-
 # Lead Conversion Analytics Dashboard 🚀
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
